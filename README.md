@@ -42,7 +42,7 @@ All solutions are stored in the root directory. Each file is named after its cor
 
 * C++
 * Java *(Coming Soon)*
-* Python *(Coming Soon)*
+* Python *(Coming Soon)(Working)*
 
 <!-- --- -->
 
