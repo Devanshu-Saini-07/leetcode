@@ -85,7 +85,7 @@ All solutions are stored in the root directory. Each file is named after its cor
 
 * 🟢 Easy – In Progress
 * 🟡 Medium – In Progress
-* 🔴 Hard – Coming Soon
+* 🔴 Hard – In Progress
 
 ---
 
